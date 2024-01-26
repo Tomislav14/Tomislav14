@@ -1,6 +1,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/tomislav-pintari%C4%87/)
-[![Dribbble](https://img.shields.io/badge/Dribbble-Follow%20%40your_username-orange?style=flat&logo=dribbble&logoColor=white&color=f67de7)](https://dribbble.com/ratio14)
+[![Dribbble](https://img.shields.io/badge/Dribbble-Profile-f67de7?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/ratio14)
+
+
 
 
 
